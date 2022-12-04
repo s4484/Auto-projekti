@@ -9,6 +9,7 @@ public class AutoApp {
 		auto.tulostaTiedot();
 		auto.tulostaTiedot();
 		auto.tulostaTiedot();
+		auto.tulostaTiedot();
 		
 		
 	}
