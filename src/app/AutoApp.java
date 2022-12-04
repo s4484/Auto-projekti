@@ -7,6 +7,9 @@ public class AutoApp {
 		Auto auto = new Auto("ABC-123");
         
 		auto.tulostaTiedot();
+		auto.tulostaTiedot();
+		
+		
 	}
 
 }
